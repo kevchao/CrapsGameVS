@@ -1,0 +1,16 @@
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\bin\Debug\netcoreapp3.1\CrapsGameVS.exe
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\bin\Debug\netcoreapp3.1\CrapsGameVS.deps.json
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\bin\Debug\netcoreapp3.1\CrapsGameVS.runtimeconfig.json
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\bin\Debug\netcoreapp3.1\CrapsGameVS.runtimeconfig.dev.json
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\bin\Debug\netcoreapp3.1\CrapsGameVS.dll
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\bin\Debug\netcoreapp3.1\CrapsGameVS.pdb
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.csproj.AssemblyReference.cache
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.Form1.resources
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.csproj.GenerateResource.cache
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.AssemblyInfoInputs.cache
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.AssemblyInfo.cs
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.csproj.CoreCompileInputs.cache
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.dll
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.pdb
+C:\Users\mrcha\OneDrive\CSI-140\Week 8\CrapsGameVS\CrapsGameVS\obj\Debug\netcoreapp3.1\CrapsGameVS.genruntimeconfig.cache
